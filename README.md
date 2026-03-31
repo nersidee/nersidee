@@ -31,9 +31,8 @@ Ecco le tecnologie con cui lavoro e che sto studiando:
 
 Qui sotto trovi alcuni dei progetti a cui ho lavorato:
 
-* **[TMS - Triage Management System](https://github.com/nersidee/tms-triage-management-system)**: TMS è un sistema software gestionale progettato per ottimizzare il flusso di lavoro all'interno di un reparto di pronto soccorso. Il sistema gestisce l'intero ciclo di vita del paziente, dall'accettazione (Triage) alla visita medica, fino alla refertazione, utilizzando un'architettura MVC (Model-View-Controller). Il progetto è basato su Java 21 e utilizza Maven per la gestione delle dipendenze. L'interfaccia grafica è stata sviluppata con JavaFX 21 e i dati sono gestiti tramite un database portabile SQLite.
-
-* **[Nome di un altro progetto](inserisci-link)**: Sostituisci questo testo con una breve descrizione di un altro tuo progetto.
+* 🏥 **[TMS - Triage Management System](https://github.com/nersidee/tms-triage-management-system)**: Sistema gestionale JavaFX MVC per ottimizzare il flusso di lavoro del pronto soccorso, dal Triage alla refertazione, con database SQLite.
+* 🛒 **[Lista di Articoli](https://github.com/nersidee/listadiarticoli_paradigmi)**: Applicazione Java MVC con interfaccia grafica e testuale per gestire liste della spesa e inventari con salvataggio persistente dei dati.
 
 ## 📫 Come Contattarmi
 
