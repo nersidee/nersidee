@@ -33,7 +33,8 @@ Qui sotto trovi alcuni dei progetti a cui ho lavorato:
 
 * 🏥 **[TMS - Triage Management System](https://github.com/nersidee/tms-triage-management-system)**: Sistema gestionale JavaFX MVC per ottimizzare il flusso di lavoro del pronto soccorso, dal Triage alla refertazione, con database SQLite.
 * 🛒 **[Lista di Articoli](https://github.com/nersidee/listadiarticoli_paradigmi)**: Applicazione Java MVC con interfaccia grafica e testuale per gestire liste della spesa e inventari con salvataggio persistente dei dati.
-
+* 📚 **[Esercizi Paradigmi Java](https://github.com/nersidee/paradigmi_java)**: Raccolta didattica di micro-applicazioni in Java (OOP e JUnit), comprendente algoritmi base, un'app rubrica e un'implementazione del gioco MasterMind.
+  
 ## 📫 Come Contattarmi
 
 Se vuoi collaborare a un progetto o semplicemente scambiare due chiacchiere sulla programmazione, puoi scrivermi qui:
